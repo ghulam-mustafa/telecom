@@ -92,9 +92,8 @@
                     <a href="https://github.com/laravel/laravel">GitHub</a>
  --}}           </div>
             </div>
-          
         </div>
-        <div class="text-center">
+        <div>
             <p class="text-center">Copyright Mustafa Bhatti - All Rights Reserved</p>
         </div>
     </body>
