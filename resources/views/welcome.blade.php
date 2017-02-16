@@ -81,6 +81,8 @@
                 <div class="title m-b-md">
                     Telecom Department
                 </div>
+                </br>
+                <p> Excellent Forum to Express Suggestions!</p>
 
                 <div class="links">
                     <a href="https://bbc.com">Link</a>
